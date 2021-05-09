@@ -3,17 +3,7 @@ import ReactDom from 'react-dom';
 import './index.css'
 import Card from './Card';
 import Sdata from './Sdata';
-// function  newd(val)
-// {
-// return (<Card 
-// imgsrc={val.imgsrc}
-// title={val.title}
-// sname={val.sname}
-// link={val.link}
-// ></Card>
-// );
 
-// }
 ReactDom.render(
    
     <>
